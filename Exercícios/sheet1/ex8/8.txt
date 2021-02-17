@@ -1,0 +1,3 @@
+i. Linux is multi-programming because it can process multi-tasking.
+ii. Linux is muti-user because we can see different tasks from different users
+iii. Linux is multi sharing because shares computing resources among many users at the same time

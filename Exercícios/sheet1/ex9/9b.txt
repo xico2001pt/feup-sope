@@ -1,0 +1,6 @@
+- I/O instructions and Halt instructions
+- Turn off all Interrupts
+- Set the Timer
+- Context Switching
+- Clear the Memory or Remove a process from the Memory
+- Modify entries in Device-status table

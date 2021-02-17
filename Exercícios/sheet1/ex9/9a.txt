@@ -1,0 +1,2 @@
+write date: kernel mode
+read date : kernel mode and user mode
