@@ -1,0 +1,4 @@
+Program counter
+Registers
+Stack
+State

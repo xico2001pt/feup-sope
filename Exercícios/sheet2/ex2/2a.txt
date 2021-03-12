@@ -1,0 +1,12 @@
+PID - Process IDentifier
+PPID - Parent Process IDentifier
+real U/GID - User/Group IDentifier of who initiated the process
+current dir - directory to where names of files are referenced by default
+file descriptor table - info on open files; descriptor is table index
+environment - initially inherited from parent process
+text space - memory where program instructions lie; read only
+stack space - memory automatically managed
+heap space - memory managed by the user in runtime
+priority - info for process scheduling
+signal disposition - masks for delivery or blocking of signals
+umask - mask that restrains files' permissions on creation

@@ -1,0 +1,4 @@
+A Program is an executable file containing the set of instructions written to perform a specific job on your computer.
+A Process is an executing instance of a program.
+A Thread is the smallest executable unit of a process.
+A process can have multiple threads and each thread will have their own task and own path of execution in a process.

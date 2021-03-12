@@ -1,0 +1,2 @@
+Named pipes allow communication between any process, while normal pipes just allow between parent and child.
+Named pipes are stored in a file in File System, while normal pipes are temporary.

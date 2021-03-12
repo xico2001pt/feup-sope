@@ -1,0 +1,5 @@
+i. The process that will send the color should write it in the file, while the second process should read it and write if it already had that color, leading the first process to read the file.
+
+ii. Similar to i., but instead of writing / reading a file, the data will be directly shared.
+
+iii. Similar to i. In preparation, the processes must establish which signals will represent the color and if it already had it.

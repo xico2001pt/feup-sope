@@ -1,0 +1,5 @@
+Problems of signals in the communication of processes:
+- Concurrency
+- Competition
+- Races
+- Deadlocks

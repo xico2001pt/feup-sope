@@ -1,0 +1,1 @@
+Threads can access the memory of other threads and run simultaneously in several processors, but this easily can create some memory errors.
