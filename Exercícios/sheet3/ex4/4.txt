@@ -1,0 +1,2 @@
+A semaphore is a counter of processes/threads.
+A mutex is a particular type of semaphore: a binary semaphore.

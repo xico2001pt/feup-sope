@@ -1,0 +1,5 @@
+Deadlock:
+If each philosopher pick a fork, there will not be any available forks at the end and all philosophers will wait for each other, leading to a deadlock.
+
+Livelock:
+If a philosopher picks up the forks, puts them down and thinks way too fast for the waiting philosopher to his right or left to pick up the fork he was waiting for, those philosophers might enter the state of starvation as the algorithm will allow one philosopher to continually evolve while the others will be starting and will never get access to the critical zone (there is no 'fairness' to the algorithm, no concept of priority).

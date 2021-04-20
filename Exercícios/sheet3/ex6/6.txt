@@ -1,0 +1,1 @@
+If the parent sends the signal before the child reaches the pause() function, the child will wait forever.

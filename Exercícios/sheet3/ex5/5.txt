@@ -1,0 +1,4 @@
+For example, if:
+- Process 0 leaves the region
+- Process 1 does not enter the region
+- Process 0 can not enter the region

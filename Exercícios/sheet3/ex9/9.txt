@@ -1,0 +1,5 @@
+Overbooking:
+If several costumers enter the shop at the same time, verify there's an empty seat and seat on it, the chair will actually be ocupied by both of the costumers, leading to an overbooking.
+
+Deadlock:
+If a barber verifies that the seats are all empty right before a costumer actually seats on them will cause the barber to sleep while waiting for costumers to enter the barber shop and the costumer to wait for the barber, causing a deadlock.
