@@ -1,0 +1,1 @@
+With variable memory partitions, the memory allocation changes as processes evolve, but memory holes are formed.

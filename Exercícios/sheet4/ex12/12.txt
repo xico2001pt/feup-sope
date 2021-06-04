@@ -1,0 +1,4 @@
+i) The page that will be replaced is page 9, because it wasn't referenced or modified.
+ii) The page that will be replaced is page 87, because it's the oldest page (highest "referenced ago" value).
+iii) The page that will be replaced is page 12, because it's has the highest "loaded ago" value.
+iv) The page that will be replaced is page 9, because it's the oldest page (highest "referenced ago" value) with R = 0.

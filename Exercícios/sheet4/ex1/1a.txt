@@ -1,0 +1,4 @@
+i) 20KiB, 10KiB, 18KiB
+ii) 20KiB, 18KiB, 9KiB
+iii) 12KiB, 10KiB, 9KiB
+iv) 20KiB, 18KiB, 15KiB
