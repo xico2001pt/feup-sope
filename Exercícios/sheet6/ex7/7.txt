@@ -1,0 +1,2 @@
+Create, delete, rename.
+Directories however simply hold links to files, so it makes no sense to read them as an array of bytes as a regular file.

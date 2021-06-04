@@ -1,0 +1,4 @@
+- Contiguous blocks: simplicity, but external fragmentation
+- Linked block list: no wasted space, but slow random access
+- Linked block list using a allocation table: quick random access, but possibly large table
+- i-nodes: only the currently needed file blocks are stored in memory (each file holds that data permanently in disk). Bit less efficient for random access.

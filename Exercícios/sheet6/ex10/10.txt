@@ -1,0 +1,1 @@
+"A hard link is a direct reference to a file via its inode. You can also only hardlink files and not directories.". A symbolic link, on the other hand, refers to the abstract location (path) of the file: if the file is moved, the symbolic link is broken.

@@ -1,0 +1,6 @@
+From the Arch Wiki: "File systems use permissions and attributes to regulate the level of interaction that system processes can have with files and directories.".
+
+Permissions are the basic access restrictions to the file;
+attributes further regulate it;
+mode is the current used permission;
+name is the basic identification.

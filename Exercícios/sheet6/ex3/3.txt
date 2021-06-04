@@ -1,0 +1,2 @@
+In Linux, file extensions are mere decorations to give the user information about the "type" of the file (which app should open it?).
+In Windows, they are more restricted (the system does not execute non exe files...) and so the user should not try to change it.

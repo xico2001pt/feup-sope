@@ -1,0 +1,1 @@
+A linked list is more space efficient: each block may store a pointer to the next block. However, traversing is slow and expensive. With a bitmap, the lookups are very fast, but there needs to be a bit per block (the filled blocks bits need to exist...).
