@@ -1,0 +1,5 @@
+i) 500107862016 / 60801 = 8225322.97192 bytes / cylinder
+8225322.97192 / 255 = 32256.1685173 bytes / track
+32256.1685173 / 63 = 512.002674878 bytes / sector
+
+ii) It is true. In fact, before LBA was the common technology on HDD, this was the process taken by the drivers.

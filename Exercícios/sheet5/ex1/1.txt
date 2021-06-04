@@ -1,0 +1,5 @@
+i) Interrupts
+ii) Polling
+iii) DMA
+iv) Polling
+v) Polling / Interrupts

@@ -1,0 +1,5 @@
+i) Device-independent Software
+ii) Hardware
+iii) Device Drivers
+iv) Device-independent Software
+v) User Processes
