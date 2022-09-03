@@ -11,7 +11,7 @@ Este repositório contém:
 - Exercícios Resolvidos
 - Projetos
    - [xmod](https://github.com/xico2001pt/sope-xmod)
-   - [Server-client App](https://github.com/xico2001pt/sope-server-client-app)
+   - [Server-client App](https://github.com/adr1an0s0ar3s/sope_server_app)
 - Exames Resolvidos
 
 ## Classificações
